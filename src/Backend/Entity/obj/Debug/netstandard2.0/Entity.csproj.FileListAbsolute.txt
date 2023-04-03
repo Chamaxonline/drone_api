@@ -1,0 +1,30 @@
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\Entity\bin\Debug\netstandard2.0\Entity.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\Entity\bin\Debug\netstandard2.0\Entity.pdb
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\Entity\obj\Debug\netstandard2.0\Entity.pdb
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\Entity\bin\Debug\netstandard2.0\Entity.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\Entity\bin\Debug\netstandard2.0\Entity.pdb
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\Entity\obj\Debug\netstandard2.0\Entity.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\Entity\obj\Debug\netstandard2.0\Entity.pdb
+D:\My practice\gitHub\drone_api\src\Backend\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+D:\My practice\gitHub\drone_api\src\Backend\Entity\bin\Debug\netstandard2.0\Entity.dll
+D:\My practice\gitHub\drone_api\src\Backend\Entity\bin\Debug\netstandard2.0\Entity.pdb
+D:\My practice\gitHub\drone_api\src\Backend\Entity\bin\Debug\netstandard2.0\Common.dll
+D:\My practice\gitHub\drone_api\src\Backend\Entity\bin\Debug\netstandard2.0\Common.pdb
+D:\My practice\gitHub\drone_api\src\Backend\Entity\obj\Debug\netstandard2.0\Entity.csproj.AssemblyReference.cache
+D:\My practice\gitHub\drone_api\src\Backend\Entity\obj\Debug\netstandard2.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\My practice\gitHub\drone_api\src\Backend\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+D:\My practice\gitHub\drone_api\src\Backend\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+D:\My practice\gitHub\drone_api\src\Backend\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+D:\My practice\gitHub\drone_api\src\Backend\Entity\obj\Debug\netstandard2.0\Entity.csproj.CopyComplete
+D:\My practice\gitHub\drone_api\src\Backend\Entity\obj\Debug\netstandard2.0\Entity.dll
+D:\My practice\gitHub\drone_api\src\Backend\Entity\obj\Debug\netstandard2.0\Entity.pdb

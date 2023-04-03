@@ -1,0 +1,261 @@
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Domain.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Entity.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Repository.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+D:\NuxtWebApp\car_classified_ads\Application\BackEnd\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Domain.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Entity.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Repository.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+D:\PrivertApp\Marrage\MarrageProposal\Aplication\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Common.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Domain.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Entity.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Repository.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Common.pdb
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+D:\My practice\gitHub\drone_api\src\Backend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
