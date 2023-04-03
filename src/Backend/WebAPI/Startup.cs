@@ -50,8 +50,8 @@ namespace SmartERP.API
             services.AddScoped(typeof(IAsyncRepository<>), typeof(EfRepository<>));
 
            
-            services.AddDbContext<SmartDbContext>(options =>
-           options.UseSqlServer(Configuration.GetConnectionString("carDbConnect")));
+            services.AddDbContext<DroneDbContext>(options =>
+           options.UseSqlServer(Configuration.GetConnectionString("droneDbConnect")));
 
             services.AddControllers();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);         
@@ -60,7 +60,7 @@ namespace SmartERP.API
 
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Logistic ERP API", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Drone API", Version = "v1" });
             });
         }
 
@@ -74,7 +74,7 @@ namespace SmartERP.API
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Logistic ERP API");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Drone API");
             });
             app.UseHttpsRedirection();
 

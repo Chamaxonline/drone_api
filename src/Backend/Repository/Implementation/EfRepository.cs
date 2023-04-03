@@ -16,11 +16,11 @@ namespace SmartERP.Repository.Implementation
 
         #region Fields
 
-        protected SmartDbContext Context;
+        protected DroneDbContext Context;
 
         #endregion
 
-        public EfRepository(SmartDbContext context)
+        public EfRepository(DroneDbContext context)
         {
             Context = context;
         }
