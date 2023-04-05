@@ -1,4 +1,3 @@
-using SmartERP.Repository;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -13,11 +12,14 @@ using Microsoft.OpenApi.Models;
 using System;
 using System.Text;
 using Entity.Context;
-using SmartERP.Repository.Implementation;
-using SmartERP.Repository.Interfaces;
+using Repository.Implementation;
+using Repository.Interfaces;
 using AutoMapper;
-using Entity.Models;
-namespace SmartERP.API
+using Entity.Mappings;
+using Domain.Service.Interface;
+using Domain.Service;
+
+namespace WebApi
 {
     public class Startup
     {
@@ -35,6 +37,15 @@ namespace SmartERP.API
             services.AddAutoMapper(typeof(Startup));
             services.AddControllers();
 
+            // Auto Mapper Configurations
+            var mapperConfig = new MapperConfiguration(mc =>
+            {
+                mc.AddProfile(new MappingProfile());
+            });
+
+            IMapper mapper = mapperConfig.CreateMapper();
+            services.AddSingleton(mapper);
+
             services.AddCors(options =>
             {
                 options.AddPolicy(MyAllowSpecificOrigins,
@@ -46,16 +57,20 @@ namespace SmartERP.API
                 });
             });
 
-            //services.AddTransient<IVehicleConditionRepository, VehicleConditionRepository>();
+            services.AddScoped<IDroneRepository, DroneRepository>();
             services.AddScoped(typeof(IAsyncRepository<>), typeof(EfRepository<>));
 
-           
+            
+            services.AddScoped<IDroneService, DroneService>();
+
             services.AddDbContext<DroneDbContext>(options =>
            options.UseSqlServer(Configuration.GetConnectionString("droneDbConnect")));
+            
 
+           
+            
             services.AddControllers();
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);         
-
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
 
 
             services.AddSwaggerGen(c =>

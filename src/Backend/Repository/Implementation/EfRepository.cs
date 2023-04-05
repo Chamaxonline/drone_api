@@ -1,7 +1,7 @@
 ﻿using Entity;
 using Entity.Context;
 using Microsoft.EntityFrameworkCore;
-using SmartERP.Repository.Interfaces;
+using Repository.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +9,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SmartERP.Repository.Implementation
+namespace Repository.Implementation
 {
     public class EfRepository<T> : IAsyncRepository<T> where T : BaseEntity
     {
@@ -35,12 +35,12 @@ namespace SmartERP.Repository.Implementation
         public Task<T> FirstOrDefault(Expression<Func<T, bool>> predicate)
             => Context.Set<T>().FirstOrDefaultAsync(predicate);
 
-        public async Task<long> Add(T entity)
+        public async Task<T> Add(T entity)
         {
-            // await Context.AddAsync(entity);
+            entity.CreatedDate = DateTime.Now;
             await Context.Set<T>().AddAsync(entity);
             await Context.SaveChangesAsync();
-            return 1;//entity.Id;
+            return await Task.FromResult(entity);
         }
 
         public Task Update(T entity)
@@ -48,7 +48,7 @@ namespace SmartERP.Repository.Implementation
             // In case AsNoTracking is used
             Context.Entry(entity).State = EntityState.Modified;
             return Context.SaveChangesAsync();
-           
+
         }
 
         public Task Remove(T entity)
@@ -72,10 +72,12 @@ namespace SmartERP.Repository.Implementation
         public Task<int> CountWhere(Expression<Func<T, bool>> predicate)
             => Context.Set<T>().CountAsync(predicate);
 
-        Task<int> IAsyncRepository<T>.Add(T entity)
-        {
-            throw new NotImplementedException();
-        }
+        //public async Task<T> IAsyncRepository<T>.Add(T entity)
+        //{
+        //   var response =  await Context.Set<T>().AddAsync(entity);
+        //    await Context.SaveChangesAsync();
+        //    return response;
+        //}
 
         #endregion
 

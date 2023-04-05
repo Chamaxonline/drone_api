@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Entity.Migrations
 {
@@ -12,6 +13,9 @@ namespace Entity.Migrations
                 {
                     Id = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
+                    CreatedBy = table.Column<string>(nullable: true),
+                    CreatedDate = table.Column<DateTime>(nullable: false),
+                    LastUpdatedDate = table.Column<DateTime>(nullable: false),
                     SerialNumber = table.Column<string>(maxLength: 100, nullable: true),
                     Model = table.Column<int>(nullable: false),
                     BatteryCapacity = table.Column<decimal>(type: "decimal(5,2)", nullable: false),
@@ -28,6 +32,9 @@ namespace Entity.Migrations
                 {
                     Id = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
+                    CreatedBy = table.Column<string>(nullable: true),
+                    CreatedDate = table.Column<DateTime>(nullable: false),
+                    LastUpdatedDate = table.Column<DateTime>(nullable: false),
                     Name = table.Column<string>(nullable: true),
                     Weight = table.Column<int>(nullable: false),
                     Code = table.Column<string>(nullable: true),
