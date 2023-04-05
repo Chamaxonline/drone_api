@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Entity.Models
 {
-    public class Medication
+    public class Medication: BaseEntity
     {
         [Key]
         public int Id { get; set; }
