@@ -9,5 +9,6 @@ namespace Domain.Service.Interface
     public interface IDroneService
     {
         Task<Drone> Create(Drone drone);
+        Task<Drone> Get(int id);
     }
 }

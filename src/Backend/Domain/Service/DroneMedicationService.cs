@@ -43,6 +43,11 @@ namespace Domain.Service
 
         }
 
+        public async Task<List<DroneMedication>> GetByDroneId(int droneId)
+        {
+           return await _droneMedicationRepository.GetByDroneId(droneId);
+        }
+
 
     }
 }
