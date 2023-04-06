@@ -15,9 +15,11 @@ namespace WebAPI.Controllers
     public class DroneController : ApiController
     {
         private readonly IDroneService _droneService;
-        public DroneController(IDroneService droneService)
+        private readonly IDroneMedicationService _droneMedicationService;
+        public DroneController(IDroneService droneService, IDroneMedicationService droneMedicationService)
         {
             _droneService = droneService;
+            _droneMedicationService = droneMedicationService;
         }
 
         [HttpPost]
@@ -36,6 +38,32 @@ namespace WebAPI.Controllers
                 throw ex.InnerException;
             }
 
+        }
+
+        [HttpPost]
+        [Route("LoadDrone")]
+        public async Task<ActionResult> LoadDrone(DroneMedicationViewModel viewModel)
+        {
+            try
+            {
+                var droneMedication = Mapper.Map<DroneMedication>(viewModel);
+                var droneValidity = await _droneMedicationService.LoadingValidation(droneMedication);
+                if (droneValidity.Length == 0)
+                {
+                    var result = await _droneMedicationService.Add(droneMedication);
+                    return Ok(result);
+                }
+                else
+                {
+                    return Ok(droneValidity);
+                }
+
+            }
+            catch (Exception ex)
+            {
+
+                throw ex.InnerException;
+            }
         }
     }
 }

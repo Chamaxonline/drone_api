@@ -4,14 +4,16 @@ using Entity.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Entity.Migrations
 {
     [DbContext(typeof(DroneDbContext))]
-    partial class DroneDbContextModelSnapshot : ModelSnapshot
+    [Migration("20230406025736_add_weightLevel")]
+    partial class add_weightLevel
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -54,42 +56,6 @@ namespace Entity.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Drone");
-                });
-
-            modelBuilder.Entity("Entity.Models.DroneMedication", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<bool>("Active")
-                        .HasColumnType("bit");
-
-                    b.Property<string>("CreatedBy")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<DateTime>("CreatedDate")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("DroneId")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime?>("LastUpdatedDate")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("MedicationId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("MedicationQty")
-                        .HasColumnType("int");
-
-                    b.Property<decimal>("TotalWeight")
-                        .HasColumnType("decimal(18,2)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("DroneMedication");
                 });
 
             modelBuilder.Entity("Entity.Models.Medication", b =>

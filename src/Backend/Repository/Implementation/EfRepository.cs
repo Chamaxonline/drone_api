@@ -27,7 +27,7 @@ namespace Repository.Implementation
 
         #region Public Methods
 
-        public async Task<T> GetById(long id)
+        public async Task<T> GetById(int id)
         {
             return await Context.Set<T>().FindAsync(id);
         }

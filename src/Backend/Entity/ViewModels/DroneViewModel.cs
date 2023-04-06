@@ -11,6 +11,7 @@ namespace Entity.ViewModels
     {
         public int? Id { get; set; }
         public string SerialNumber { get; set; }
+        public decimal WeightLimit { get; set; }
         public DroneModelEnum Model { get; set; }
         public Decimal BatteryCapacity { get; set; }
         public DroneStateEnum State { get; set; }

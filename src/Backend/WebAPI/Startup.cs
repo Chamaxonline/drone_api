@@ -59,11 +59,13 @@ namespace WebApi
 
             services.AddScoped<IDroneRepository, DroneRepository>();
             services.AddScoped<IMedicationRepository, MedicationRepository>();
+            services.AddScoped<IDroneMedicationRepository, DroneMedicationRepository>();
             services.AddScoped(typeof(IAsyncRepository<>), typeof(EfRepository<>));
 
             
             services.AddScoped<IDroneService, DroneService>();
             services.AddScoped<IMedicationService, MedicationService>();
+            services.AddScoped<IDroneMedicationService, DroneMedicationService>();
 
             services.AddDbContext<DroneDbContext>(options =>
            options.UseSqlServer(Configuration.GetConnectionString("droneDbConnect")));
