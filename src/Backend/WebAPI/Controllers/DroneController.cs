@@ -65,5 +65,22 @@ namespace WebAPI.Controllers
                 throw ex.InnerException;
             }
         }
+
+        [HttpGet]
+        [Route("BatteryLevel/{Id}")]
+        public async Task<ActionResult> BatteryLevel(int id)
+        {
+            var drone = await _droneService.Get(id);
+            return Ok(drone.BatteryCapacity);
+        }
+
+        [HttpGet]
+        [Route("LoadedMedicationItems/{droneId}")]
+        public async Task<ActionResult> LoadedMedicationItems(int droneId)
+        {
+            var items = await _droneMedicationService.GetByDroneId(droneId);
+            return Ok(items);
+        }
+
     }
 }

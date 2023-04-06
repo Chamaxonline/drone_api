@@ -10,5 +10,6 @@ namespace Domain.Service.Interface
     {
         Task<DroneMedication> Add(DroneMedication droneMedication);
         Task<string> LoadingValidation(DroneMedication droneMedication);
+        Task<List<DroneMedication>> GetByDroneId(int droneId);
     }
 }

@@ -25,6 +25,10 @@ namespace Domain.Service
            return await _droneRepository.Add(drone);
            
         }
+        public async Task<Drone> Get(int id)
+        {
+            return await _droneRepository.GetById(id);
+        }        
         
         private string GenerateSerialNumber()
         {
