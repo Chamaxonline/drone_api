@@ -14,6 +14,7 @@ namespace Entity.Context
         public DbSet<Drone> Drone { get; set; }
         
         public DbSet<Medication> Medication { get; set; }
+        public DbSet<DroneMedication> DroneMedication { get; set; }
 
     }
 }

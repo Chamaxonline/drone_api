@@ -13,6 +13,7 @@ namespace Entity.Models
         public int Id { get; set; }
         [StringLength(100)]
         public string SerialNumber { get; set; }
+        public decimal WeightLimit { get; set; }
         public DroneModelEnum Model { get; set; }
         [Column(TypeName = "decimal(5,2)")]
         public Decimal BatteryCapacity { get; set; }

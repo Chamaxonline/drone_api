@@ -10,7 +10,7 @@ namespace Repository.Interfaces
     public interface IAsyncRepository<T> where T: class
     {
 
-        Task<T> GetById(long id);
+        Task<T> GetById(int id);
         Task<T> FirstOrDefault(Expression<Func<T, bool>> predicate);
 
         Task<T> Add(T entity);
