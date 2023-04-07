@@ -15,5 +15,6 @@ namespace Entity.ViewModels
         public DroneModelEnum Model { get; set; }
         public Decimal BatteryCapacity { get; set; }
         public DroneStateEnum State { get; set; }
+        public string BatteryCapacityPresentage { get; set; }
     }
 }
