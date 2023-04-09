@@ -29,6 +29,10 @@ namespace WebAPI.Controllers
         {
             try
             {
+                if (!ModelState.IsValid)
+                {
+                    return BadRequest(ModelState);
+                }
 
                 viewModel.BatteryCapacity = await _droneService.ConvertStringtoPrecentage(viewModel.BatteryCapacityPresentage);
                 var drone = Mapper.Map<Drone>(viewModel);

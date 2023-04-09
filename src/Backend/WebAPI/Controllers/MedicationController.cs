@@ -27,6 +27,10 @@ namespace WebAPI.Controllers
         {
             try
             {
+                if (!ModelState.IsValid)
+                {
+                    return BadRequest(ModelState);
+                }
                 var medication = Mapper.Map<Medication>(viewModel);
                 var result = await _medicationService.Create(medication);
                 return Ok(result);

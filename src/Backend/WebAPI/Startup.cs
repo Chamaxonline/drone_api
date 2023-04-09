@@ -18,6 +18,8 @@ using AutoMapper;
 using Entity.Mappings;
 using Domain.Service.Interface;
 using Domain.Service;
+using FluentValidation.AspNetCore;
+using Entity.ViewModels.Validator;
 
 namespace WebApi
 {
@@ -69,10 +71,12 @@ namespace WebApi
 
             services.AddDbContext<DroneDbContext>(options =>
            options.UseSqlServer(Configuration.GetConnectionString("droneDbConnect")));
-            
 
-           
-            
+            services.AddControllersWithViews()
+    .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<MedicationValidator>());
+
+
+
             services.AddControllers();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
 
