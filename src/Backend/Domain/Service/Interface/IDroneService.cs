@@ -10,5 +10,7 @@ namespace Domain.Service.Interface
     {
         Task<Drone> Create(Drone drone);
         Task<Drone> Get(int id);
+        Task<List<Drone>> GetAvailableDrones();
+        Task<decimal> ConvertStringtoPrecentage(string percentage);
     }
 }

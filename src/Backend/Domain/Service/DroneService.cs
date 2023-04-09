@@ -11,8 +11,8 @@ using System.Threading.Tasks;
 
 namespace Domain.Service
 {
-    public class DroneService : Profile,IDroneService
-    {       
+    public class DroneService : Profile, IDroneService
+    {
         private readonly IDroneRepository _droneRepository;
         public DroneService(IDroneRepository droneRepository)
         {
@@ -22,18 +22,34 @@ namespace Domain.Service
         public async Task<Drone> Create(Drone drone)
         {
             drone.SerialNumber = GenerateSerialNumber();
-           return await _droneRepository.Add(drone);
-           
+            return await _droneRepository.Add(drone);
+
         }
         public async Task<Drone> Get(int id)
         {
             return await _droneRepository.GetById(id);
-        }        
-        
+        }
+
+        public async Task<List<Drone>> GetAvailableDrones()
+        {
+            return await _droneRepository.AvailableDrones();
+        }
+        public async Task<decimal> ConvertStringtoPrecentage(string percentage)
+        {
+            return await Task.FromResult(decimal.Parse(percentage.Replace("%", "")) / 100);
+        }
+
         private string GenerateSerialNumber()
         {
-            Guid serialNumber = Guid.NewGuid();
-           return serialNumber.ToString();
-        }        
+            var serialNumber = Guid.NewGuid();
+            if (serialNumber.ToString().Length > 100)
+            {
+                return serialNumber.ToString().Substring(0, 100);
+            }
+
+            return serialNumber.ToString();
+        }
+
+        
     }
 }

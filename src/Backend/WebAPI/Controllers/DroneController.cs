@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -28,8 +29,15 @@ namespace WebAPI.Controllers
         {
             try
             {
+                if (!ModelState.IsValid)
+                {
+                    return BadRequest(ModelState);
+                }
+
+                viewModel.BatteryCapacity = await _droneService.ConvertStringtoPrecentage(viewModel.BatteryCapacityPresentage);
                 var drone = Mapper.Map<Drone>(viewModel);
-                var result = await _droneService.Create(drone);
+                var result = Mapper.Map<DroneViewModel>(await _droneService.Create(drone));
+                result.BatteryCapacityPresentage = result.BatteryCapacity.ToString("P");
                 return Ok(result);
             }
             catch (Exception ex)
@@ -51,6 +59,7 @@ namespace WebAPI.Controllers
                 if (droneValidity.Length == 0)
                 {
                     var result = await _droneMedicationService.Add(droneMedication);
+
                     return Ok(result);
                 }
                 else
@@ -70,8 +79,8 @@ namespace WebAPI.Controllers
         [Route("BatteryLevel/{Id}")]
         public async Task<ActionResult> BatteryLevel(int id)
         {
-            var drone = await _droneService.Get(id);
-            return Ok(drone.BatteryCapacity);
+            var drone = Mapper.Map<DroneViewModel>(await _droneService.Get(id));
+            return Ok(drone.BatteryCapacity.ToString("P"));
         }
 
         [HttpGet]
@@ -80,6 +89,14 @@ namespace WebAPI.Controllers
         {
             var items = await _droneMedicationService.GetByDroneId(droneId);
             return Ok(items);
+        }
+
+        [HttpGet]
+        [Route("AvailableDrones")]
+        public async Task<ActionResult> AvailableDrones()
+        {
+            var droneList = await _droneService.GetAvailableDrones();
+            return Ok(droneList);
         }
 
     }
