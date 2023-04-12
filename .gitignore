@@ -35,7 +35,7 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
-API/appsettings.Development.json
+src\Backend\WebAPI/appsettings.Development.json
 API.IntegrationTests/Properties/launchSettings.json
 
 **/*.orig
