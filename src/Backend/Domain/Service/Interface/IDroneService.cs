@@ -12,5 +12,6 @@ namespace Domain.Service.Interface
         Task<Drone> Get(int id);
         Task<List<Drone>> GetAvailableDrones();
         Task<decimal> ConvertStringtoPrecentage(string percentage);
+        Task<Drone> UpdateStatus(int droneId, int status);
     }
 }
