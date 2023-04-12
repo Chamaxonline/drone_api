@@ -39,6 +39,12 @@ namespace Domain.Service
             return await Task.FromResult(decimal.Parse(percentage.Replace("%", "")) / 100);
         }
 
+        public async Task<Drone> UpdateStatus(int droneId, int status)
+        {
+            var drone = await _droneRepository.GetById(droneId);
+            drone.State = (Common.Enum.DroneStateEnum)status;
+            return await _droneRepository.Update(drone);
+        }
         private string GenerateSerialNumber()
         {
             var serialNumber = Guid.NewGuid();

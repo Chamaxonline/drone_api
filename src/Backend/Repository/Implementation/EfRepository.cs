@@ -43,11 +43,12 @@ namespace Repository.Implementation
             return await Task.FromResult(entity);
         }
 
-        public Task Update(T entity)
+        public async Task<T> Update(T entity)
         {
             // In case AsNoTracking is used
             Context.Entry(entity).State = EntityState.Modified;
-            return Context.SaveChangesAsync();
+             Context.SaveChangesAsync();
+            return await Task.FromResult(entity);
 
         }
 

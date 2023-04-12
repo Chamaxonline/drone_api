@@ -35,7 +35,7 @@ namespace Domain.Service
             {
               return  Utilities.droneWeightExceed;
             }
-            if(drone.BatteryCapacity < Utilities.minimumBattryCapacity)
+            if(Convert.ToDouble(drone.BatteryCapacity) < Utilities.minimumBattryCapacity)
             {
                 return Utilities.droneBatteryLevel;
             }
@@ -47,7 +47,7 @@ namespace Domain.Service
         {
            return await _droneMedicationRepository.GetByDroneId(droneId);
         }
-
+       
 
     }
 }

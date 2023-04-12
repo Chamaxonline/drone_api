@@ -1,4 +1,5 @@
-﻿using Domain.Service.Interface;
+﻿using Common.Enum;
+using Domain.Service.Interface;
 using Entity.Models;
 using Entity.ViewModels;
 using Microsoft.AspNetCore.Http;
@@ -59,6 +60,7 @@ namespace WebAPI.Controllers
                 if (droneValidity.Length == 0)
                 {
                     var result = await _droneMedicationService.Add(droneMedication);
+                    await _droneService.UpdateStatus(viewModel.DroneId, (int)DroneStateEnum.LOADED);
 
                     return Ok(result);
                 }
