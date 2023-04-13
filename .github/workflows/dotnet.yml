@@ -17,7 +17,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Setup .NET
-      uses: Chamaxonline/repo@ref
+      uses: Chamaxonline/drone_api@ref
       with:
         dotnet-version: 5.0.x
     - name: Restore dependencies
