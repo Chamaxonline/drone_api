@@ -16,3 +16,5 @@
 * open the below URL from the browser
 
 https://localhost:5001/swagger/index.html
+
+* can use postman collection or Swagger to access web API (go to script & postman folder to get postman collection)
