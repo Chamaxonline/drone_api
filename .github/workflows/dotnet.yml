@@ -25,5 +25,7 @@ jobs:
       working-directory: src/Backend
     - name: Build
       run: dotnet build --no-restore
+      working-directory: src/Backend
     - name: Test
       run: dotnet test --no-build --verbosity normal
+      working-directory: src/Backend
