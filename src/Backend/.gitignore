@@ -35,7 +35,7 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
-API/appsettings.Development.json
+appsettings.Development.json
 API.IntegrationTests/Properties/launchSettings.json
 
 **/*.orig
@@ -44,3 +44,6 @@ Terraform/.terraform
 Terraform/*.log
 Terraform/*.tfstate
 Terraform/*.tfstate.backup
+
+# Config files
+appsettings.Development.json
